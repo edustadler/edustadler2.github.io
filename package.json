@@ -1,7 +1,7 @@
 {
   "name": "edustadler.github.io",
   "version": "1.0.0",
-  "description": "### [Featured on Freebiesbug](http://freebiesbug.com/psd-freebies/global-futuristic-one-page-portfolio-psd-html/)",
+  "description": "###",
   "main": "index.js",
   "dependencies": {
     "install": "^0.12.2"
